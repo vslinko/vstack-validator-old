@@ -15,6 +15,7 @@
 
 [![gitter chat](http://img.shields.io/badge/gitter%20chat-vslinko--vstack-brightgreen.svg)](https://gitter.im/vslinko-vstack?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![gratipay](https://img.shields.io/gratipay/vslinko.svg)](https://gratipay.com/vslinko/)
+[![bountysource](https://img.shields.io/bountysource/team/vstack/activity.svg)](https://www.bountysource.com/teams/vstack)
 
 ## Usage
 
