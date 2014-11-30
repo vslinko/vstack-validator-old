@@ -1,6 +1,6 @@
 {
   "name": "vstack-validator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Validator for recursive JS structures",
   "keywords": ["validation", "validator", "vstack"],
   "bugs": "https://github.com/vslinko-vstack/vstack-validator/issues",
