@@ -4,7 +4,7 @@
 
 [![circleci build](http://img.shields.io/badge/build-passed-brightgreen.svg)](https://circleci.com/gh/vslinko-vstack/vstack-validator/tree/master)
 [![codacy code quality](https://img.shields.io/codacy/3a0e8e4d759547dea776e5952dc7abb3.svg)](https://www.codacy.com/public/vslinko/vstack-validator/dashboard)
-![code climate](https://img.shields.io/codeclimate/github/vslinko-vstack/vstack-validator.svg)
+[![code climate](https://img.shields.io/codeclimate/github/vslinko-vstack/vstack-validator.svg)](https://codeclimate.com/github/vslinko-vstack/vstack-validator/code)
 [![github issues](https://img.shields.io/github/issues/vslinko-vstack/vstack-validator.svg)](https://github.com/vslinko-vstack/vstack-validator/issues)
 
 [![npm license](https://img.shields.io/npm/l/vstack-validator.svg)](LICENSE)
