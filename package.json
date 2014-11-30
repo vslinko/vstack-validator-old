@@ -1,0 +1,26 @@
+{
+  "name": "vstack-validator",
+  "version": "0.1.0",
+  "description": "Validator for recursive JS structures",
+  "keywords": ["validation", "validator", "vstack"],
+  "bugs": "https://github.com/vslinko-vstack/vstack-validator/issues",
+  "license": "MIT",
+  "author": "Vyacheslav Slinko <vslinko@yahoo.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vslinko-vstack/vstack-validator.git"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "devDependencies": {
+    "jest-cli": "~0.1"
+  },
+  "jest": {
+    "rootDir": "lib",
+    "testPathIgnorePatterns": [
+      "/__tests__/[^/]*/.+"
+    ]
+  }
+}
