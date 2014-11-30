@@ -2,7 +2,7 @@
 
 > Validator for recursive JS structures
 
-[![circleci build](http://img.shields.io/badge/build-passed-green.svg)](https://circleci.com/gh/vslinko-vstack/vstack-validator/tree/master)
+[![circleci build](http://img.shields.io/badge/build-passed-brightgreen.svg)](https://circleci.com/gh/vslinko-vstack/vstack-validator/tree/master)
 [![codacy code quality](https://img.shields.io/codacy/3a0e8e4d759547dea776e5952dc7abb3.svg)](https://www.codacy.com/public/vslinko/vstack-validator/dashboard)
 ![code climate](https://img.shields.io/codeclimate/github/vslinko-vstack/vstack-validator.svg)
 [![github issues](https://img.shields.io/github/issues/vslinko-vstack/vstack-validator.svg)](https://github.com/vslinko-vstack/vstack-validator/issues)
@@ -13,7 +13,7 @@
 [![david dev dependencies](https://img.shields.io/david/dev/vslinko-vstack/vstack-validator.svg)](https://www.npmjs.org/package/vstack-validator)
 [![npm downloads](https://img.shields.io/npm/dm/vstack-validator.svg)](https://www.npmjs.org/package/vstack-validator)
 
-[![gitter chat](http://img.shields.io/badge/gitter%20chat-vslinko--vstack-green.svg)](https://gitter.im/vslinko-vstack?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![gitter chat](http://img.shields.io/badge/gitter%20chat-vslinko--vstack-brightgreen.svg)](https://gitter.im/vslinko-vstack?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![gratipay](https://img.shields.io/gratipay/vslinko.svg)](https://gratipay.com/vslinko/)
 
 ## Usage
