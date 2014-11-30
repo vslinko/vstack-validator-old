@@ -1,0 +1,7 @@
+machine:
+  node:
+    version: 0.10.28
+
+notify:
+  webhooks:
+    - url: https://webhooks.gitter.im/e/b3ceeeab1252e3010891
