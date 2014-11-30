@@ -2,6 +2,10 @@
 
 > Validator for recursive JS structures
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vslinko-vstack/vstack-validator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+[![Circle CI](https://circleci.com/gh/vslinko-vstack/vstack-validator/tree/master.svg?style=svg)](https://circleci.com/gh/vslinko-vstack/vstack-validator/tree/master)
+
 ## Usage
 
 ```js
