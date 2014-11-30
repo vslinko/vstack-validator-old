@@ -4,4 +4,4 @@ machine:
 
 notify:
   webhooks:
-    - url: https://webhooks.gitter.im/e/b3ceeeab1252e3010891
+    - url: https://webhooks.gitter.im/e/5746d6ea5e0379ab5ded
