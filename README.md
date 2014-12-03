@@ -40,7 +40,7 @@ var authorValidator = constraints.object({
 });
 
 var authorsValidator = constraints.array({
-  validator: authorValidator
+  itemValidator: authorValidator
 });
 
 var postValidator = constraints.object({
