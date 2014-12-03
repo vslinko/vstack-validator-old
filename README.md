@@ -173,40 +173,40 @@ var minLength = validator.createConstraint({
 ## Built-in constraints
 
 ```js
-validator.constraits.notNull();
-validator.constraits.notEmpty();
-validator.constraits.isTrue();
-validator.constraits.isFalse();
-validator.constraits.isNumber();
-validator.constraits.isString();
-validator.constraits.isBoolean();
-validator.constraits.isObject();
-validator.constraits.isArray();
-validator.constraits.isRegexp();
-validator.constraits.isDate();
-validator.constraits.isMoment();
-validator.constraits.regexp({
+validator.constraints.notNull();
+validator.constraints.notEmpty();
+validator.constraints.isTrue();
+validator.constraints.isFalse();
+validator.constraints.isNumber();
+validator.constraints.isString();
+validator.constraints.isBoolean();
+validator.constraints.isObject();
+validator.constraints.isArray();
+validator.constraints.isRegexp();
+validator.constraints.isDate();
+validator.constraints.isMoment();
+validator.constraints.regexp({
   regexp: /./
 });
-validator.constraits.email();
-validator.constraits.uppercase();
-validator.constraits.lowercase();
-validator.constraits.minLength({
+validator.constraints.email();
+validator.constraints.uppercase();
+validator.constraints.lowercase();
+validator.constraints.minLength({
   minLength: 1
 });
-validator.constraits.maxLength({
+validator.constraints.maxLength({
   maxLength: 255
 });
-validator.constraits.all({
+validator.constraints.all({
   validators: [],
   joinMessages: true
 });
-validator.constraits.object({
+validator.constraints.object({
   mapping: {},
   joinMessages: true,
   overrideRoot: false
 });
-validator.constraits.array({
-  itemValidator: validator.constraits.notNull()
+validator.constraints.array({
+  itemValidator: validator.constraints.notNull()
 });
 ```
